@@ -29,5 +29,5 @@ if(useNew) {
   }
 }
 ```
-* Comments from years ago, including such classics as "not sure what this does", "be careful with this", "this fixed a bug, not really sure why but it worked so I'm leaving it there".
+* Comments from years ago, including such classics as "not sure what this does", "be careful with this", and "this fixed a bug, not really sure why but it worked so I'm leaving it there".
 * More...
