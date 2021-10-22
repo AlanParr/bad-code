@@ -4,6 +4,8 @@ I wanted to build an application that contains as many examples as possible of t
 
 Once the app is built, it could be used by anyone for refactoring practise/teaching purposes.
 
+I've been considering doing something with YouTube or Twitch so could possibly build the app and refactor it on a stream.
+
 ## What sins should it contain?
 Will add to this list bad things that I want in the app. If anyone stumbles upon this repo and wants to add more ideas, feel free.
 
